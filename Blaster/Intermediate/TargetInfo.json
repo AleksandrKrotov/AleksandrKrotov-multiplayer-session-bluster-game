@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Blaster",
+			"Path": "/Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Source/Blaster.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BlasterEditor",
+			"Path": "/Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Source/BlasterEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

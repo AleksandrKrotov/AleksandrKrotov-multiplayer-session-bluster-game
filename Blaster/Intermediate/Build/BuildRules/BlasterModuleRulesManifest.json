@@ -1,0 +1,14 @@
+{
+	"SourceFiles": [
+		"/Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Source/Blaster/Blaster.Build.cs",
+		"/Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/RD.Build.cs",
+		"/Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderBlueprint/RiderBlueprint.Build.cs",
+		"/Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderGameControl/RiderGameControl.Build.cs",
+		"/Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/RiderLink.Build.cs",
+		"/Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLogging/RiderLogging.Build.cs",
+		"/Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderShaderInfo/RiderShaderInfo.Build.cs",
+		"/Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Source/Blaster.Target.cs",
+		"/Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Source/BlasterEditor.Target.cs"
+	],
+	"EngineVersion": "5.1.0"
+}
