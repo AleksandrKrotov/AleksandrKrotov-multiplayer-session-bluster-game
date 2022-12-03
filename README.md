@@ -1,2 +1,3 @@
-# AleksandrKrotov-multiplayer-session-blaster-game
-blaster game
+# AleksandrKrotov-multiplayer-game-blaster
+
+Blaster game
