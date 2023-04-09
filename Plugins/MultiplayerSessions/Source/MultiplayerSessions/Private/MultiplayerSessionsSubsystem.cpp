@@ -119,7 +119,6 @@ void UMultiplayerSessionsSubsystem::StartSession()
 	}
 	JoinSessionCompleteDelegateHandle = SessionInterface->AddOnStartSessionCompleteDelegate_Handle(StartSessionCompleteDelegate);
 
-	const ULocalPlayer* LocalPlayer = GetWorld()->GetFirstLocalPlayerFromController();
 	if (!SessionInterface->StartSession(NAME_GameSession))
 	{
 		SessionInterface->ClearOnStartSessionCompleteDelegate_Handle(StartSessionCompleteDelegateHandle);

@@ -1,7 +1,7 @@
-/Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Intermediate/Build/Mac/x86_64/UnrealEditor/DebugGame/RD/ISerializersOwner.cpp.o: \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/base/ISerializersOwner.cpp \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Intermediate/Build/Mac/x86_64/UnrealEditor/DebugGame/RD/Definitions.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/base/ISerializersOwner.h \
+/Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Intermediate/Build/Mac/x86_64/UnrealEditor/DebugGame/RD/ISerializersOwner.cpp.o: \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/base/ISerializersOwner.cpp \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Intermediate/Build/Mac/x86_64/UnrealEditor/DebugGame/RD/Definitions.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/base/ISerializersOwner.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/unordered_set \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__config \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__config_site \
@@ -355,4 +355,4 @@
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/math.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__node_handle \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/optional \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/rd_framework_export.h
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/rd_framework_export.h

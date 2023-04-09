@@ -1,7 +1,7 @@
-/Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/RD/WireUtil.cpp.o: \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/wire/WireUtil.cpp \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/RD/Definitions.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/wire/WireUtil.h \
+/Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/RD/WireUtil.cpp.o: \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/wire/WireUtil.cpp \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/RD/Definitions.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/wire/WireUtil.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cstdint \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__config \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__config_site \
@@ -34,11 +34,11 @@
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_uintptr_t.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_types/_intmax_t.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_types/_uintmax_t.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/rd_framework_export.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/util/core_util.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/util/erase_if.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/util/gen_util.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/std/hash.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/rd_framework_export.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/util/core_util.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/util/erase_if.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/util/gen_util.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/std/hash.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cstddef \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/version \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include/stddef.h \
@@ -258,10 +258,10 @@
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/pointer_to_unary_function.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/ranges_operations.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/unary_negate.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/std/allocator.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/util/overloaded.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/util/shared_function.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/std/to_string.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/std/allocator.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/util/overloaded.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/util/shared_function.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/std/to_string.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/string \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/algorithm \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__bits \
@@ -429,42 +429,42 @@
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__split_buffer \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/future \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/codecvt \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/thirdparty.hpp \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/ordered-map/include/tsl/ordered_set.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/thirdparty.hpp \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/ordered-map/include/tsl/ordered_set.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/deque \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/ordered-map/include/tsl/ordered_hash.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/ordered-map/include/tsl/ordered_hash.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cmath \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/math.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/math.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/ordered-map/include/tsl/ordered_map.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/ordered-map/include/tsl/ordered_map.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/optional \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/string-view-lite/include/nonstd/string_view.hpp \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/types/wrapper.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/util/core_traits.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/types/Void.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/spdlog.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/common.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/tweakme.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/details/null_mutex.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/fmt/fmt.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/fmt/bundled/core.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/fmt/bundled/format.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/details/registry.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/string-view-lite/include/nonstd/string_view.hpp \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/types/wrapper.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/util/core_traits.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/types/Void.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/spdlog.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/common.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/tweakme.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/details/null_mutex.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/fmt/fmt.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/fmt/bundled/core.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/fmt/bundled/format.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/details/registry.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/unordered_map \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/is_transparent.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__hash_table \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__node_handle \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/logger.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/details/log_msg.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/details/backtracer.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/details/log_msg_buffer.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/details/circular_q.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/version.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/details/synchronous_factory.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/logger.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/details/log_msg.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/details/backtracer.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/details/log_msg_buffer.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/details/circular_q.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/version.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/details/synchronous_factory.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/iostream \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/clsocket/src/PassiveSocket.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/clsocket/src/ActiveSocket.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/clsocket/src/SimpleSocket.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/clsocket/src/PassiveSocket.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/clsocket/src/ActiveSocket.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/clsocket/src/SimpleSocket.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/stat.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_s_ifmt.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_filesec_t.h \
@@ -502,5 +502,5 @@
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/fcntl.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_o_sync.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_o_dsync.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/clsocket/src/Host.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/clsocket/src/StatTimer.h
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/clsocket/src/Host.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/clsocket/src/StatTimer.h

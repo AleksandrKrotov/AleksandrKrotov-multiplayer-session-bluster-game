@@ -1,7 +1,7 @@
-/Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Intermediate/Build/Mac/x86_64/UnrealEditor/DebugGame/RiderShaderInfo/RiderShaderInfo.cpp.o: \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderShaderInfo/RiderShaderInfo.cpp \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Intermediate/Build/Mac/x86_64/UnrealEditor/DebugGame/RiderShaderInfo/Definitions.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderShaderInfo/RiderShaderInfo.h \
+/Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Intermediate/Build/Mac/x86_64/UnrealEditor/DebugGame/RiderShaderInfo/RiderShaderInfo.cpp.o: \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderShaderInfo/RiderShaderInfo.cpp \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Intermediate/Build/Mac/x86_64/UnrealEditor/DebugGame/RiderShaderInfo/Definitions.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderShaderInfo/RiderShaderInfo.h \
   Runtime/Core/Public/Modules/ModuleInterface.h \
   Runtime/Core/Public/CoreTypes.h Runtime/Core/Public/HAL/Platform.h \
   Runtime/Core/Public/Misc/Build.h \

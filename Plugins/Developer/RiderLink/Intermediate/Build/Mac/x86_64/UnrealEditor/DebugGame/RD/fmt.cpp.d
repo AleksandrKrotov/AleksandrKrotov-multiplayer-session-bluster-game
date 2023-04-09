@@ -1,7 +1,7 @@
-/Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Intermediate/Build/Mac/x86_64/UnrealEditor/DebugGame/RD/fmt.cpp.o: \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/src/fmt.cpp \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Intermediate/Build/Mac/x86_64/UnrealEditor/DebugGame/RD/Definitions.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/fmt/bundled/format-inl.h \
+/Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Intermediate/Build/Mac/x86_64/UnrealEditor/DebugGame/RD/fmt.cpp.o: \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/src/fmt.cpp \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Intermediate/Build/Mac/x86_64/UnrealEditor/DebugGame/RD/Definitions.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/fmt/bundled/format-inl.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/algorithm \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__config \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__config_site \
@@ -414,5 +414,5 @@
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_fsfilcnt_t.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_types/_nl_item.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__bsd_locale_defaults.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/fmt/bundled/format.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/fmt/bundled/core.h
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/fmt/bundled/format.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/fmt/bundled/core.h

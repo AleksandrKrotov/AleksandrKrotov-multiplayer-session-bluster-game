@@ -1,14 +1,14 @@
-/Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/RiderLink/Module.RiderLink.cpp.o: \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/RiderLink/Module.RiderLink.cpp \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/RiderLink/Definitions.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Private/ProtocolFactory.cpp \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Private/ProtocolFactory.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/protocol/Protocol.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/base/IProtocol.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/base/IRdDynamic.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/impl/RName.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/thirdparty.hpp \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/ordered-map/include/tsl/ordered_set.h \
+/Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/RiderLink/Module.RiderLink.cpp.o: \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/RiderLink/Module.RiderLink.cpp \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/RiderLink/Definitions.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Private/ProtocolFactory.cpp \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Private/ProtocolFactory.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/protocol/Protocol.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/base/IProtocol.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/base/IRdDynamic.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/impl/RName.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/thirdparty.hpp \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/ordered-map/include/tsl/ordered_set.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cstddef \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__config \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__config_site \
@@ -358,11 +358,11 @@
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/unique.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/vector \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__bit_reference \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/ordered-map/include/tsl/ordered_hash.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/ordered-map/include/tsl/ordered_hash.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cmath \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/math.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/math.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/ordered-map/include/tsl/ordered_map.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/ordered-map/include/tsl/ordered_map.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/optional \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/string_view \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/enable_view.h \
@@ -374,7 +374,7 @@
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/wctype.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/wctype.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_types/_wctrans_t.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/string-view-lite/include/nonstd/string_view.hpp \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/string-view-lite/include/nonstd/string_view.hpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/ostream \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/bitset \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/string \
@@ -430,92 +430,92 @@
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_fsfilcnt_t.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_types/_nl_item.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__bsd_locale_defaults.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/rd_framework_export.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/serialization/Serializers.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/protocol/RdId.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/protocol/Buffer.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/types/DateTime.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/std/hash.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/rd_core_export.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/util/core_util.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/util/erase_if.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/util/gen_util.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/std/allocator.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/util/overloaded.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/util/shared_function.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/std/to_string.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/rd_framework_export.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/serialization/Serializers.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/protocol/RdId.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/protocol/Buffer.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/types/DateTime.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/std/hash.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/rd_core_export.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/util/core_util.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/util/erase_if.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/util/gen_util.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/std/allocator.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/util/overloaded.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/util/shared_function.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/std/to_string.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/thread \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/sstream \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/istream \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/future \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/codecvt \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/types/wrapper.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/util/core_traits.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/types/Void.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/spdlog.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/common.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/tweakme.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/details/null_mutex.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/fmt/fmt.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/fmt/bundled/core.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/fmt/bundled/format.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/details/registry.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/types/wrapper.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/util/core_traits.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/types/Void.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/spdlog.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/common.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/tweakme.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/details/null_mutex.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/fmt/fmt.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/fmt/bundled/core.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/fmt/bundled/format.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/details/registry.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/unordered_map \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/is_transparent.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__hash_table \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__node_handle \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/logger.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/details/log_msg.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/details/backtracer.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/details/log_msg_buffer.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/details/circular_q.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/version.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/details/synchronous_factory.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/logger.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/details/log_msg.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/details/backtracer.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/details/log_msg_buffer.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/details/circular_q.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/version.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/details/synchronous_factory.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/iostream \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/std/list.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/util/hashing.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/serialization/ISerializable.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/protocol/Identities.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/base/IUnknownInstance.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/serialization/RdAny.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/serialization/DefaultAbstractDeclaration.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/std/unordered_map.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/std/list.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/util/hashing.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/serialization/ISerializable.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/protocol/Identities.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/base/IUnknownInstance.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/serialization/RdAny.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/serialization/DefaultAbstractDeclaration.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/std/unordered_map.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/unordered_set \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/scheduler/base/IScheduler.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/base/IWire.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/reactive/base/interfaces.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/lifetime/Lifetime.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/lifetime/LifetimeImpl.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/scheduler/base/IScheduler.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/base/IWire.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/reactive/base/interfaces.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/lifetime/Lifetime.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/lifetime/LifetimeImpl.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/map \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__tree \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/base/IRdReactive.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/base/IRdBindable.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/base/IRdWireable.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/reactive/Property.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/reactive/base/IProperty.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/reactive/base/SignalX.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/reactive/base/SignalCookie.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/reactive/base/IPropertyBase.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/lifetime/SequentialLifetimes.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/lifetime/LifetimeDefinition.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/serialization/SerializationCtx.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/base/IRdReactive.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/base/IRdBindable.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/base/IRdWireable.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/reactive/Property.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/reactive/base/IProperty.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/reactive/base/SignalX.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/reactive/base/SignalCookie.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/reactive/base/IPropertyBase.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/lifetime/SequentialLifetimes.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/lifetime/LifetimeDefinition.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/serialization/SerializationCtx.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/regex \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/intern/InternRoot.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/base/RdReactiveBase.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/base/RdBindableBase.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/util/guards.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/intern/InternScheduler.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/serialization/InternedAnySerializer.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/wire/SocketWire.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/base/WireBase.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/protocol/MessageBroker.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/intern/InternRoot.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/base/RdReactiveBase.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/base/RdBindableBase.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/util/guards.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/intern/InternScheduler.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/serialization/InternedAnySerializer.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/wire/SocketWire.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/base/WireBase.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/protocol/MessageBroker.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/queue \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/wire/ByteBufferAsyncProcessor.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/wire/ByteBufferAsyncProcessor.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/condition_variable \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/list \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/wire/PkgInputStream.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/wire/PkgInputStream.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/array \
-  Runtime/Core/Public/Templates/UniquePtr.h \
+  Runtime/Core/Public/Containers/UnrealString.h \
   Runtime/Core/Public/CoreTypes.h Runtime/Core/Public/HAL/Platform.h \
   Runtime/Core/Public/Misc/Build.h \
   Runtime/Core/Public/Misc/LargeWorldCoordinates.h \
@@ -533,34 +533,27 @@
   Runtime/Core/Public/Misc/CoreMiscDefines.h \
   Runtime/Core/Public/Misc/../HAL/PreprocessorHelpers.h \
   Runtime/Core/Public/Misc/CoreDefines.h \
-  Runtime/Core/Public/Templates/UnrealTemplate.h \
-  Runtime/Core/Public/Templates/IsPointer.h \
-  Runtime/Core/Public/HAL/UnrealMemory.h \
-  Runtime/Core/Public/GenericPlatform/GenericPlatformMemory.h \
-  Runtime/Core/Public/CoreFwd.h \
+  Runtime/Core/Public/Misc/VarArgs.h \
+  Runtime/Core/Public/Misc/OutputDevice.h Runtime/Core/Public/CoreFwd.h \
   Runtime/Core/Public/Containers/ContainersFwd.h \
   Runtime/Core/Public/Traits/IsContiguousContainer.h \
   Runtime/Core/Public/Math/MathFwd.h \
   Runtime/Core/Public/UObject/UObjectHierarchyFwd.h \
-  Runtime/Core/Public/HAL/PlatformString.h \
-  Runtime/Core/Public/Mac/MacPlatformString.h \
-  Runtime/Core/Public/Apple/ApplePlatformString.h \
-  Runtime/Core/Public/GenericPlatform/GenericWidePlatformString.h \
-  Runtime/Core/Public/GenericPlatform/GenericPlatformStricmp.h \
-  Runtime/Core/Public/GenericPlatform/GenericPlatformString.h \
-  Runtime/Core/Public/Templates/EnableIf.h \
+  Runtime/Core/Public/Logging/LogVerbosity.h \
+  Runtime/Core/Public/Templates/AndOrNot.h \
+  Runtime/Core/Public/Templates/IsArrayOrRefOfTypeByPredicate.h \
+  Runtime/Core/Public/Templates/IsValidVariadicFunctionArg.h \
+  Runtime/Core/Public/Templates/IsEnum.h \
   Runtime/Core/Public/Traits/IsCharEncodingCompatibleWith.h \
   Runtime/Core/Public/Traits/IsCharType.h \
-  Runtime/Core/Public/Traits/IsCharEncodingSimplyConvertibleTo.h \
-  Runtime/Core/Public/Traits/IsFixedWidthCharEncoding.h \
-  Runtime/Core/Public/HAL/PlatformCrt.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/float.h \
-  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include/float.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/float.h \
   Runtime/Core/Public/Misc/AssertionMacros.h \
   Runtime/Core/Public/HAL/PlatformMisc.h \
   Runtime/Core/Public/GenericPlatform/GenericPlatformMisc.h \
   Runtime/Core/Public/Containers/StringFwd.h \
+  Runtime/Core/Public/HAL/PlatformCrt.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/float.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include/float.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/float.h \
   Runtime/Core/Public/Math/NumericLimits.h \
   Runtime/Core/Public/Misc/CompressionFlags.h \
   Runtime/Core/Public/Misc/EnumClassFlags.h \
@@ -1791,14 +1784,18 @@
   Runtime/TraceLog/Public/Trace/Detail/Channel.inl \
   Runtime/TraceLog/Public/Trace/Trace.h \
   Runtime/TraceLog/Public/Trace/Detail/Trace.h \
-  Runtime/Core/Public/Templates/AndOrNot.h \
-  Runtime/Core/Public/Templates/IsArrayOrRefOfTypeByPredicate.h \
-  Runtime/Core/Public/Templates/IsValidVariadicFunctionArg.h \
-  Runtime/Core/Public/Templates/IsEnum.h \
-  Runtime/Core/Public/Misc/VarArgs.h Runtime/Core/Public/Misc/Char.h \
-  Runtime/Core/Public/Traits/IntType.h \
-  Runtime/Core/Public/Misc/OutputDevice.h \
-  Runtime/Core/Public/Logging/LogVerbosity.h \
+  Runtime/Core/Public/Templates/EnableIf.h \
+  Runtime/Core/Public/HAL/UnrealMemory.h \
+  Runtime/Core/Public/GenericPlatform/GenericPlatformMemory.h \
+  Runtime/Core/Public/HAL/PlatformString.h \
+  Runtime/Core/Public/Mac/MacPlatformString.h \
+  Runtime/Core/Public/Apple/ApplePlatformString.h \
+  Runtime/Core/Public/GenericPlatform/GenericWidePlatformString.h \
+  Runtime/Core/Public/GenericPlatform/GenericPlatformStricmp.h \
+  Runtime/Core/Public/GenericPlatform/GenericPlatformString.h \
+  Runtime/Core/Public/Traits/IsCharEncodingSimplyConvertibleTo.h \
+  Runtime/Core/Public/Traits/IsFixedWidthCharEncoding.h \
+  Runtime/Core/Public/Misc/Char.h Runtime/Core/Public/Traits/IntType.h \
   Runtime/Core/Public/HAL/MemoryBase.h \
   Runtime/Core/Public/HAL/PlatformAtomics.h \
   Runtime/Core/Public/GenericPlatform/GenericPlatformAtomics.h \
@@ -1816,43 +1813,30 @@
   Runtime/Core/Public/HAL/PlatformMemory.h \
   Runtime/Core/Public/Mac/MacPlatformMemory.h \
   Runtime/Core/Public/Apple/ApplePlatformMemory.h \
-  Runtime/Core/Public/Templates/AreTypesEqual.h \
-  Runtime/Core/Public/Templates/CopyQualifiersAndRefsFromTo.h \
-  Runtime/Core/Public/Templates/CopyQualifiersFromTo.h \
+  Runtime/Core/Public/Templates/IsPointer.h \
   Runtime/Core/Public/Templates/IsArithmetic.h \
+  Runtime/Core/Public/Templates/IsArray.h \
   Runtime/Core/Public/Templates/UnrealTypeTraits.h \
+  Runtime/Core/Public/Templates/AreTypesEqual.h \
   Runtime/Core/Public/Templates/RemoveCV.h \
   Runtime/Core/Public/Traits/IsVoidType.h \
   Runtime/Core/Public/Templates/Models.h \
   Runtime/Core/Public/Templates/Identity.h \
   Runtime/Core/Public/Templates/IsPODType.h \
   Runtime/Core/Public/Templates/IsUECoreType.h \
+  Runtime/Core/Public/Templates/UnrealTemplate.h \
+  Runtime/Core/Public/Templates/CopyQualifiersAndRefsFromTo.h \
+  Runtime/Core/Public/Templates/CopyQualifiersFromTo.h \
   Runtime/Core/Public/Templates/RemoveReference.h \
   Runtime/Core/Public/Templates/TypeCompatibleBytes.h \
-  Runtime/Core/Public/Templates/IsArray.h \
-  Runtime/Core/Public/Templates/RemoveExtent.h \
-  Runtime/Core/Public/Serialization/MemoryLayout.h \
-  Runtime/Core/Public/Concepts/StaticClassProvider.h \
-  Runtime/Core/Public/Concepts/StaticStructProvider.h \
-  Runtime/Core/Public/Containers/EnumAsByte.h \
-  Runtime/Core/Public/Templates/IsEnumClass.h \
-  Runtime/Core/Public/Templates/TypeHash.h \
-  Runtime/Core/Public/Misc/Crc.h Runtime/Core/Public/Misc/CString.h \
-  Runtime/Core/Public/Misc/DelayedAutoRegister.h \
-  Runtime/Core/Public/Templates/Function.h \
-  Runtime/Core/Public/Templates/ChooseClass.h \
-  Runtime/Core/Public/Templates/Decay.h \
-  Runtime/Core/Public/Templates/Invoke.h \
-  Runtime/Core/Public/Traits/MemberFunctionPtrOuter.h \
-  Runtime/Core/Public/Templates/IsConstructible.h \
-  Runtime/Core/Public/Templates/IsInvocable.h \
-  Runtime/Core/Public/Templates/IsMemberPointer.h \
-  Runtime/Core/Public/Math/UnrealMathUtility.h \
+  Runtime/Core/Public/Containers/Array.h \
+  Runtime/Core/Public/Templates/IsSigned.h \
+  Runtime/Core/Public/Containers/ContainerAllocationPolicies.h \
   Runtime/Core/Public/HAL/PlatformMath.h \
   Runtime/Core/Public/GenericPlatform/GenericPlatformMath.h \
+  Runtime/Core/Public/Templates/Decay.h \
   Runtime/Core/Public/Templates/IsFloatingPoint.h \
   Runtime/Core/Public/Templates/ResolveTypeAmbiguity.h \
-  Runtime/Core/Public/Templates/IsSigned.h \
   Runtime/Core/Public/Mac/MacPlatformMath.h \
   Runtime/Core/Public/Clang/ClangPlatformMath.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include/smmintrin.h \
@@ -1862,13 +1846,8 @@
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include/crc32intrin.h \
   Runtime/Core/Public/Math/UnrealPlatformMathSSE4.h \
   Runtime/Core/Public/Math/UnrealPlatformMathSSE.h \
-  Runtime/Core/Public/Templates/IsAbstract.h \
-  Runtime/Core/Public/Templates/IsPolymorphic.h \
-  Runtime/Launch/Resources/Version.h \
-  Runtime/Core/Public/HAL/PlatformFileManager.h \
-  Runtime/Core/Public/Misc/App.h Runtime/Core/Public/Containers/Array.h \
-  Runtime/Core/Public/Containers/ContainerAllocationPolicies.h \
   Runtime/Core/Public/Templates/MemoryOps.h \
+  Runtime/Core/Public/Templates/IsPolymorphic.h \
   Runtime/Core/Public/Containers/ContainerElementTypeCompatibility.h \
   Runtime/Core/Public/Serialization/Archive.h \
   Runtime/Core/Public/HAL/PlatformProperties.h \
@@ -1877,8 +1856,25 @@
   Runtime/Core/Public/Internationalization/TextNamespaceFwd.h \
   Runtime/Core/Public/Misc/EngineVersionBase.h \
   Runtime/Core/Public/Serialization/ArchiveCookData.h \
+  Runtime/Core/Public/Templates/Function.h \
+  Runtime/Core/Public/Templates/ChooseClass.h \
+  Runtime/Core/Public/Templates/Invoke.h \
+  Runtime/Core/Public/Traits/MemberFunctionPtrOuter.h \
+  Runtime/Core/Public/Templates/IsConstructible.h \
+  Runtime/Core/Public/Templates/IsInvocable.h \
+  Runtime/Core/Public/Templates/IsMemberPointer.h \
+  Runtime/Core/Public/Math/UnrealMathUtility.h \
+  Runtime/Core/Public/Templates/IsEnumClass.h \
   Runtime/Core/Public/UObject/ObjectVersion.h \
   Runtime/Core/Public/Serialization/MemoryImageWriter.h \
+  Runtime/Core/Public/Serialization/MemoryLayout.h \
+  Runtime/Core/Public/Concepts/StaticClassProvider.h \
+  Runtime/Core/Public/Concepts/StaticStructProvider.h \
+  Runtime/Core/Public/Containers/EnumAsByte.h \
+  Runtime/Core/Public/Templates/TypeHash.h \
+  Runtime/Core/Public/Misc/Crc.h Runtime/Core/Public/Misc/CString.h \
+  Runtime/Core/Public/Misc/DelayedAutoRegister.h \
+  Runtime/Core/Public/Templates/IsAbstract.h \
   Runtime/Core/Public/Algo/Heapify.h \
   Runtime/Core/Public/Algo/Impl/BinaryHeap.h \
   Runtime/Core/Public/Templates/ReversePredicate.h \
@@ -1891,9 +1887,12 @@
   Runtime/Core/Public/Templates/AlignmentTemplates.h \
   Runtime/Core/Public/Templates/MakeUnsigned.h \
   Runtime/Core/Public/Traits/ElementType.h \
-  Runtime/Core/Public/Containers/UnrealString.h \
   Runtime/Core/Public/Misc/StringFormatArg.h \
-  Runtime/Core/Public/CoreGlobals.h \
+  Runtime/Core/Public/Templates/UniquePtr.h \
+  Runtime/Core/Public/Templates/RemoveExtent.h \
+  Runtime/Launch/Resources/Version.h \
+  Runtime/Core/Public/HAL/PlatformFileManager.h \
+  Runtime/Core/Public/Misc/App.h Runtime/Core/Public/CoreGlobals.h \
   Runtime/Core/Public/HAL/PlatformTLS.h \
   Runtime/Core/Public/GenericPlatform/GenericPlatformTLS.h \
   Runtime/Core/Public/Mac/MacPlatformTLS.h \
@@ -2069,110 +2068,112 @@
   Runtime/Core/Public/HAL/FileManager.h \
   Runtime/Core/Public/GenericPlatform/GenericPlatformFile.h \
   Runtime/Core/Public/Math/Color.h Runtime/Core/Public/Misc/Paths.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/sinks/daily_file_sink.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/details/file_helper.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/fmt/chrono.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/fmt/bundled/chrono.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/sinks/base_sink.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/sinks/sink.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/formatter.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/details/os.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Private/RiderLink.cpp \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Private/RiderLink.hpp \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/IRiderLink.hpp \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/RdEditorProtocol/RdEditorModel/RdEditorModel.Generated.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/impl/RdSignal.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/serialization/Polymorphic.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/impl/RdProperty.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/base/RdPropertyBase.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/impl/RdList.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/reactive/ViewableList.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/reactive/base/IViewableList.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/reactive/base/viewable_collections.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/impl/RdSet.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/reactive/ViewableSet.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/reactive/base/IViewableSet.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/impl/RdMap.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/reactive/ViewableMap.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/reactive/base/IViewableMap.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/base/ISerializersOwner.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/serialization/NullableSerializer.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/serialization/AbstractPolymorphic.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/util/framework_traits.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/serialization/ArraySerializer.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/serialization/InternedSerializer.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/ext/RdExtBase.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/ext/ExtWire.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/task/RdCall.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/task/RdTask.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/task/RdTaskImpl.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/task/RdTaskResult.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/scheduler/SynchronousScheduler.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/task/WiredRdTask.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/task/WiredRdTaskImpl.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/task/RdEndpoint.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/task/RdSymmetricCall.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/util/enum.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/RdEditorProtocol/instantiations_RdEditorRoot.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/UnrealLogEvent.Generated.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/instantiations_UE4Library.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/UE4TypesMarshallers.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/LogMessageInfo.Generated.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/StringRange.Generated.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/BlueprintReference.Generated.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/UClass.Generated.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/PlayState.Generated.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/RequestResultBase.Generated.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/sinks/daily_file_sink.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/details/file_helper.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/fmt/chrono.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/fmt/bundled/chrono.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/sinks/base_sink.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/sinks/sink.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/formatter.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/include/spdlog/details/os.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Private/RiderLink.cpp \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Private/RiderLink.hpp \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/IRiderLink.hpp \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/RdEditorProtocol/RdEditorModel/RdEditorModel.Generated.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/impl/RdSignal.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/serialization/Polymorphic.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/impl/RdProperty.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/base/RdPropertyBase.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/impl/RdList.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/reactive/ViewableList.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/reactive/base/IViewableList.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/reactive/base/viewable_collections.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/impl/RdSet.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/reactive/ViewableSet.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/reactive/base/IViewableSet.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/impl/RdMap.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/reactive/ViewableMap.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/reactive/base/IViewableMap.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/base/ISerializersOwner.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/serialization/NullableSerializer.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/serialization/AbstractPolymorphic.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/util/framework_traits.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/serialization/ArraySerializer.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/serialization/InternedSerializer.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/ext/RdExtBase.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/ext/ExtWire.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/task/RdCall.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/task/RdTask.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/task/RdTaskImpl.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/task/RdTaskResult.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/scheduler/SynchronousScheduler.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/task/WiredRdTask.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/task/WiredRdTaskImpl.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/task/RdEndpoint.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/task/RdSymmetricCall.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/util/enum.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/RdEditorProtocol/instantiations_RdEditorRoot.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ConnectionInfo.Generated.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/instantiations_UE4Library.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/UE4TypesMarshallers.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/UnrealLogEvent.Generated.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/LogMessageInfo.Generated.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/StringRange.Generated.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/BlueprintReference.Generated.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/UClass.Generated.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/PlayState.Generated.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/RequestResultBase.Generated.h \
   Runtime/Core/Public/Modules/ModuleInterface.h \
   Runtime/Core/Public/Modules/ModuleManager.h \
   Runtime/Core/Public/Modules/Boilerplate/ModuleBoilerplate.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/scheduler/SingleThreadScheduler.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/scheduler/base/SingleThreadSchedulerBase.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/UE4Library.Generated.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/scheduler/SingleThreadScheduler.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/scheduler/base/SingleThreadSchedulerBase.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/UE4Library.Generated.h \
   Runtime/Core/Public/Misc/ScopeRWLock.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Private/UE4TypesMarshallers.cpp \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/instantiations_UE4Library.cpp \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/BlueprintFunction.Generated.cpp \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/BlueprintFunction.Generated.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/BlueprintHighlighter.Generated.cpp \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/BlueprintHighlighter.Generated.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/BlueprintReference.Generated.cpp \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/EmptyScriptCallStack.Generated.cpp \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/EmptyScriptCallStack.Generated.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/IScriptCallStack.Generated.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/IScriptCallStack.Generated.cpp \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/IScriptCallStack_Unknown.Generated.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/IScriptCallStack_Unknown.Generated.cpp \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/IScriptMsg.Generated.cpp \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/IScriptMsg.Generated.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/IScriptMsg_Unknown.Generated.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/IScriptMsg_Unknown.Generated.cpp \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/LogMessageInfo.Generated.cpp \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/NotificationType.Generated.cpp \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/NotificationType.Generated.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/PlayState.Generated.cpp \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/RequestFailed.Generated.cpp \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/RequestFailed.Generated.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/RequestResultBase.Generated.cpp \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/RequestResultBase_Unknown.Generated.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/RequestResultBase_Unknown.Generated.cpp \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/RequestSucceed.Generated.cpp \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/RequestSucceed.Generated.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ScriptCallStack.Generated.cpp \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ScriptCallStack.Generated.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ScriptCallStackFrame.Generated.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ScriptCallStackFrame.Generated.cpp \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ScriptMsgCallStack.Generated.cpp \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ScriptMsgCallStack.Generated.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ScriptMsgException.Generated.cpp \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ScriptMsgException.Generated.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/StringRange.Generated.cpp \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/UClass.Generated.cpp \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/UE4Library.Generated.cpp \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/UnableToDisplayScriptCallStack.Generated.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/UnableToDisplayScriptCallStack.Generated.cpp \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/UnrealLogEvent.Generated.cpp \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/RdEditorProtocol/instantiations_RdEditorRoot.cpp \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/RdEditorProtocol/RdEditorModel/RdEditorModel.Generated.cpp \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/RdEditorProtocol/RdEditorRoot/RdEditorRoot.Generated.h \
-  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/RdEditorProtocol/RdEditorRoot/RdEditorRoot.Generated.cpp
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Private/UE4TypesMarshallers.cpp \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/instantiations_UE4Library.cpp \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/BlueprintFunction.Generated.cpp \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/BlueprintFunction.Generated.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/BlueprintHighlighter.Generated.cpp \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/BlueprintHighlighter.Generated.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/BlueprintReference.Generated.cpp \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ConnectionInfo.Generated.cpp \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/EmptyScriptCallStack.Generated.cpp \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/EmptyScriptCallStack.Generated.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/IScriptCallStack.Generated.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/IScriptCallStack.Generated.cpp \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/IScriptCallStack_Unknown.Generated.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/IScriptCallStack_Unknown.Generated.cpp \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/IScriptMsg.Generated.cpp \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/IScriptMsg.Generated.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/IScriptMsg_Unknown.Generated.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/IScriptMsg_Unknown.Generated.cpp \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/LogMessageInfo.Generated.cpp \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/NotificationType.Generated.cpp \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/NotificationType.Generated.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/PlayState.Generated.cpp \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/RequestFailed.Generated.cpp \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/RequestFailed.Generated.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/RequestResultBase.Generated.cpp \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/RequestResultBase_Unknown.Generated.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/RequestResultBase_Unknown.Generated.cpp \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/RequestSucceed.Generated.cpp \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/RequestSucceed.Generated.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ScriptCallStack.Generated.cpp \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ScriptCallStack.Generated.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ScriptCallStackFrame.Generated.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ScriptCallStackFrame.Generated.cpp \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ScriptMsgCallStack.Generated.cpp \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ScriptMsgCallStack.Generated.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ScriptMsgException.Generated.cpp \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ScriptMsgException.Generated.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/StringRange.Generated.cpp \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/UClass.Generated.cpp \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/UE4Library.Generated.cpp \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/UnableToDisplayScriptCallStack.Generated.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/UnableToDisplayScriptCallStack.Generated.cpp \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/UnrealLogEvent.Generated.cpp \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/RdEditorProtocol/instantiations_RdEditorRoot.cpp \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/RdEditorProtocol/RdEditorModel/RdEditorModel.Generated.cpp \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/RdEditorProtocol/RdEditorRoot/RdEditorRoot.Generated.h \
+  /Users/alexandrkrotov/dev/UE/MultiplayerCourse/multiplayer-game-blaster/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/RdEditorProtocol/RdEditorRoot/RdEditorRoot.Generated.cpp
