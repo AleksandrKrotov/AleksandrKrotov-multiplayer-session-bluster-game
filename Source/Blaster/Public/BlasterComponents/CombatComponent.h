@@ -32,6 +32,9 @@ protected:
     void OnRep_EquippedWeapon();
 
 private:
+    void SetMaxWalkSpeed(float InMaxWalkSpeed) const;
+
+private:
     ABlasterCharacter* Character;
 
     UPROPERTY(ReplicatedUsing = OnRep_EquippedWeapon)
@@ -40,5 +43,10 @@ private:
     UPROPERTY(Replicated)
     bool bAiming;
 
-public:
+    UPROPERTY(EditAnywhere, Category = "Movement")
+    float BaseWalkSpeed;
+
+    UPROPERTY(EditAnywhere, Category = "Movement")
+    float AimWalkSpeed;
+
 };

@@ -10,6 +10,8 @@
 #include "Weapon/Weapon.h"
 
 UCombatComponent::UCombatComponent()
+    : BaseWalkSpeed(600.f)
+    , AimWalkSpeed(450.f)
 {
     PrimaryComponentTick.bCanEverTick = false;
 }
@@ -25,13 +27,21 @@ void UCombatComponent::GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& Out
 void UCombatComponent::BeginPlay()
 {
     Super::BeginPlay();
+
+    SetMaxWalkSpeed(BaseWalkSpeed);
 }
 
 void UCombatComponent::SetAiming(bool bIsAiming)
 {
     bAiming = bIsAiming;
-    
-    ServerSetAiming(bIsAiming);
+    bAiming ? SetMaxWalkSpeed(AimWalkSpeed) : SetMaxWalkSpeed(BaseWalkSpeed);
+    ServerSetAiming(bAiming);
+}
+
+void UCombatComponent::ServerSetAiming_Implementation(const bool bIsAiming)
+{
+    bAiming = bIsAiming;
+    bAiming ? SetMaxWalkSpeed(AimWalkSpeed) : SetMaxWalkSpeed(BaseWalkSpeed);
 }
 
 void UCombatComponent::OnRep_EquippedWeapon()
@@ -41,11 +51,6 @@ void UCombatComponent::OnRep_EquippedWeapon()
         Character->GetCharacterMovement()->bOrientRotationToMovement = false;
         Character->bUseControllerRotationYaw = true;
     }
-}
-
-void UCombatComponent::ServerSetAiming_Implementation(bool bIsAiming)
-{
-    bAiming = bIsAiming;
 }
 
 void UCombatComponent::EquipWeapon(AWeapon* InWeaponToEquip)
@@ -64,4 +69,15 @@ void UCombatComponent::EquipWeapon(AWeapon* InWeaponToEquip)
     EquippedWeapon->SetOwner(Character);
     Character->GetCharacterMovement()->bOrientRotationToMovement = false;
     Character->bUseControllerRotationYaw = true;
+}
+
+void UCombatComponent::SetMaxWalkSpeed(const float InMaxWalkSpeed) const
+{
+    if (Character != nullptr)
+    {
+        if (UCharacterMovementComponent* CharacterMovement = Character->GetCharacterMovement())
+        {
+            CharacterMovement->MaxWalkSpeed = InMaxWalkSpeed;
+        }
+    }
 }
