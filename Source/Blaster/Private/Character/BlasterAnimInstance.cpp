@@ -23,9 +23,7 @@ void UBlasterAnimInstance::NativeUpdateAnimation(float DeltaSeconds)
 
     if (BlasterCharacter == nullptr) return;
 
-    FVector Velocity = BlasterCharacter->GetVelocity();
-    Velocity.Z = 0.0f;
-    Speed = Velocity.Size();
+    Speed = BlasterCharacter->GetSpeed();
 
     // Update animation flags
     bIsInAir = BlasterCharacter->GetCharacterMovement()->IsFalling();
@@ -52,4 +50,7 @@ void UBlasterAnimInstance::NativeUpdateAnimation(float DeltaSeconds)
         const float Interp = FMath::FInterpTo(Lean, Target, DeltaSeconds, 6.0);
         Lean = FMath::Clamp(Interp, -90.f, 90.f);
     }
+
+    AO_Yaw = BlasterCharacter->GetAO_Yaw();
+    AO_Pitch = BlasterCharacter->GetAO_Pitch();
 }

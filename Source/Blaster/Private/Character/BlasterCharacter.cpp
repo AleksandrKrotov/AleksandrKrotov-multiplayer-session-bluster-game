@@ -7,10 +7,12 @@
 #include "Components/CapsuleComponent.h"
 #include "GameFramework/CharacterMovementComponent.h"
 #include "GameFramework/SpringArmComponent.h"
+#include "Kismet/KismetMathLibrary.h"
 #include "Net/UnrealNetwork.h"
 #include "Weapon/Weapon.h"
 
 ABlasterCharacter::ABlasterCharacter()
+    : StartingAimRotation(FRotator::ZeroRotator)
 {
     PrimaryActorTick.bCanEverTick = true;
     bReplicates = true;
@@ -55,6 +57,8 @@ void ABlasterCharacter::BeginPlay()
 void ABlasterCharacter::Tick(float DeltaTime)
 {
     Super::Tick(DeltaTime);
+
+    AimOffset(DeltaTime);
 }
 
 void ABlasterCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
@@ -149,6 +153,45 @@ void ABlasterCharacter::AimButtonReleased()
     }
 }
 
+void ABlasterCharacter::AimOffset(float DeltaTime)
+{
+    if (CombatComponent != nullptr && CombatComponent->EquippedWeapon == nullptr)
+    {
+        StartingAimRotation = FRotator(0.f, GetBaseAimRotation().Yaw, 0.f);
+        return;
+    }
+
+    const float Speed = GetSpeed();
+    const bool bIsInAir = GetCharacterMovement()->IsFalling();
+
+    if (Speed == 0.f &&  !bIsInAir)
+    {
+        const FRotator CurrentAimRotation = FRotator(0.f, GetBaseAimRotation().Yaw, 0.f);
+        const FRotator DeltaAimRotation = UKismetMathLibrary::NormalizedDeltaRotator(CurrentAimRotation, StartingAimRotation);
+        AO_Yaw = DeltaAimRotation.Yaw;
+        bUseControllerRotationYaw = false;
+        if (GEngine)
+        {
+            FString CARS = "Current Aim Rotation: " + CurrentAimRotation.ToString();
+            GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, CARS);
+            FString SARS = "Starting Aim Rotation: " + StartingAimRotation.ToString();
+            GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, SARS);
+            GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, FString::Printf(TEXT("AO_Yaw: %.f"), AO_Yaw));
+        }
+    }
+
+    if (Speed > 0.f || bIsInAir)
+    {
+        StartingAimRotation = FRotator(0.f, GetBaseAimRotation().Yaw, 0.f);
+        AO_Yaw = 0.f;
+        bUseControllerRotationYaw = true;
+    }
+
+
+
+    AO_Pitch = GetBaseAimRotation().Pitch;
+}
+
 void ABlasterCharacter::SetOverlappingWeapon(AWeapon* InWeapon)
 {
     AWeapon* LastWeapon = OverlappingWeapon;
@@ -160,14 +203,21 @@ void ABlasterCharacter::SetOverlappingWeapon(AWeapon* InWeapon)
     }
 }
 
-bool ABlasterCharacter::IsWeaponEquipped()
+bool ABlasterCharacter::IsWeaponEquipped() const
 {
     return (CombatComponent != nullptr && CombatComponent->EquippedWeapon != nullptr);
 }
 
-bool ABlasterCharacter::IsAiming()
+bool ABlasterCharacter::IsAiming() const
 {
     return (CombatComponent != nullptr && CombatComponent->bAiming); 
+}
+
+float ABlasterCharacter::GetSpeed() const
+{
+    FVector Velocity = GetVelocity();
+    Velocity.Z = 0.0f;
+    return  Velocity.Size();
 }
 
 void ABlasterCharacter::OnRep_OverlappingWeapon(AWeapon* InLastWeapon)

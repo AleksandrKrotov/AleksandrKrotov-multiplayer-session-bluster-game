@@ -16,16 +16,23 @@ public:
     ABlasterCharacter();
 
 #pragma region Actor Interface
+
     virtual void GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& OutLifetimeProps) const override;
     virtual void Tick(float DeltaTime) override;
     virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
     virtual void PostInitializeComponents() override;
+
 #pragma endregion  Actor Interface
 
 #pragma region Setter/Getter
+
     void SetOverlappingWeapon(AWeapon* InWeapon);
-    bool IsWeaponEquipped();
-    bool IsAiming();
+    bool IsWeaponEquipped() const;
+    bool IsAiming() const;
+    float GetSpeed() const;
+    FORCEINLINE float GetAO_Yaw() const { return AO_Yaw; }
+    FORCEINLINE float GetAO_Pitch() const { return AO_Pitch; }
+
 #pragma endregion  Setter/Getter
 
 protected:
@@ -39,6 +46,7 @@ protected:
     void CrouchButtonPressed();
     void AimButtonPressed();
     void AimButtonReleased();
+    void AimOffset(float DeltaTime);
 
 private:
     UPROPERTY(EditAnywhere, Category = Camera)
@@ -52,6 +60,12 @@ private:
 
     UPROPERTY(VisibleAnywhere)
     class UCombatComponent* CombatComponent;
+
+    float AO_Yaw;
+    float AO_Pitch;
+    FRotator StartingAimRotation;
+
+private:
 
     UFUNCTION(Server, Reliable)
     void ServerEquipButtonPressed();
