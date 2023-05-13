@@ -170,14 +170,6 @@ void ABlasterCharacter::AimOffset(float DeltaTime)
         const FRotator DeltaAimRotation = UKismetMathLibrary::NormalizedDeltaRotator(CurrentAimRotation, StartingAimRotation);
         AO_Yaw = DeltaAimRotation.Yaw;
         bUseControllerRotationYaw = false;
-        if (GEngine)
-        {
-            FString CARS = "Current Aim Rotation: " + CurrentAimRotation.ToString();
-            GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, CARS);
-            FString SARS = "Starting Aim Rotation: " + StartingAimRotation.ToString();
-            GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, SARS);
-            GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, FString::Printf(TEXT("AO_Yaw: %.f"), AO_Yaw));
-        }
     }
 
     if (Speed > 0.f || bIsInAir)
@@ -187,9 +179,12 @@ void ABlasterCharacter::AimOffset(float DeltaTime)
         bUseControllerRotationYaw = true;
     }
 
-
-
     AO_Pitch = GetBaseAimRotation().Pitch;
+    if (!IsLocallyControlled() && AO_Pitch > 180.0f)
+    {t
+        // Convert from range [0, 360] to [-180, 180]
+        AO_Pitch = AO_Pitch - 360;
+    }
 }
 
 void ABlasterCharacter::SetOverlappingWeapon(AWeapon* InWeapon)
