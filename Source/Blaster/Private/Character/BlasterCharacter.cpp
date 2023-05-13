@@ -49,6 +49,13 @@ void ABlasterCharacter::GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& Ou
     DOREPLIFETIME_CONDITION(ABlasterCharacter, OverlappingWeapon, COND_OwnerOnly);
 }
 
+AWeapon* ABlasterCharacter::GetEquippedWeapon() const
+{
+    if (CombatComponent == nullptr) return  nullptr;
+
+    return CombatComponent->EquippedWeapon;
+}
+
 void ABlasterCharacter::BeginPlay()
 {
     Super::BeginPlay();
@@ -181,7 +188,7 @@ void ABlasterCharacter::AimOffset(float DeltaTime)
 
     AO_Pitch = GetBaseAimRotation().Pitch;
     if (!IsLocallyControlled() && AO_Pitch > 180.0f)
-    {t
+    {
         // Convert from range [0, 360] to [-180, 180]
         AO_Pitch = AO_Pitch - 360;
     }
