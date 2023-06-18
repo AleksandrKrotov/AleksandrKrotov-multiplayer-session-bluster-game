@@ -33,6 +33,7 @@ void UBlasterAnimInstance::NativeUpdateAnimation(float DeltaSeconds)
     EquippedWeapon = BlasterCharacter->GetEquippedWeapon();
     bIsCrouched = BlasterCharacter->bIsCrouched;
     bIsAiming = BlasterCharacter->IsAiming();
+    TurningInPlace = BlasterCharacter->GetTurningInPlace();
 
     // Calculate YawOffset
     {

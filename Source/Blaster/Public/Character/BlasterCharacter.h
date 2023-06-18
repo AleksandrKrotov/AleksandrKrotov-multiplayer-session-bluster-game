@@ -4,6 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Character.h"
+#include "BlasterTypes/TurningInPlace.h"
 #include "BlasterCharacter.generated.h"
 
 UCLASS()
@@ -33,6 +34,7 @@ public:
     FORCEINLINE float GetAO_Yaw() const { return AO_Yaw; }
     FORCEINLINE float GetAO_Pitch() const { return AO_Pitch; }
     AWeapon* GetEquippedWeapon() const;
+    FORCEINLINE ETurningInPlace GetTurningInPlace() const { return TurningInPlace; }
 
 #pragma endregion  Setter/Getter
 
@@ -48,6 +50,7 @@ protected:
     void AimButtonPressed();
     void AimButtonReleased();
     void AimOffset(float DeltaTime);
+    void TurnInPlace(float DeltaTime);
 
 private:
     UPROPERTY(EditAnywhere, Category = Camera)
@@ -56,15 +59,21 @@ private:
     UPROPERTY(EditAnywhere, Category = Camera)
     class UCameraComponent* FollowCamera;
 
-    UPROPERTY(ReplicatedUsing=OnRep_OverlappingWeapon)
+    UPROPERTY(EditAnywhere, Category = Camera)
+    float InterpolationSpeed = 10.0f;
+
+    UPROPERTY(ReplicatedUsing = OnRep_OverlappingWeapon)
     class AWeapon* OverlappingWeapon;
 
     UPROPERTY(VisibleAnywhere)
     class UCombatComponent* CombatComponent;
 
     float AO_Yaw;
+    float InterpAO_Yaw;
     float AO_Pitch;
     FRotator StartingAimRotation;
+
+    ETurningInPlace TurningInPlace;
 
 private:
 

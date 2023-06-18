@@ -3,6 +3,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "BlasterTypes/TurningInPlace.h"
 #include "Animation/AnimInstance.h"
 #include "BlasterAnimInstance.generated.h"
 
@@ -57,6 +58,9 @@ private:
     FRotator DeltaRotation;
 
     class AWeapon* EquippedWeapon;
+
+    UPROPERTY(BlueprintReadOnly, Category = "Movement", meta = (AllowPrivateAccess = "true"))
+    ETurningInPlace TurningInPlace;
 
 private:
     void SetLeftHand();
